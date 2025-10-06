@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there 👋 I’m Pranathi Nagisetti
 
-<!--
-**PranathiNagisetti/PranathiNagisetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a software / tech enthusiast passionate about building cool stuff, learning new technologies, and collaborating on open source.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+
+| Frontend | Backend | DevOps / Tools | Data / ML |
+|---|---|---|---|
+| HTML · CSS · JavaScript · React | Node.js · Express · Python | Git · Docker · GitHub Actions | Python · Pandas · NumPy |
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagisetti-pranathi-51011b2b8)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/PranathiNagisetti)
+
+---
+
+## 📊 GitHub Stats
+
+[![Pranathi’s GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PranathiNagisetti&theme=dracula)](https://github.com/PranathiNagisetti)  
+
+[![Pranathi’s Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PranathiNagisetti&theme=dracula)](https://github.com/PranathiNagisetti)
+
+---
+
+## 🛠️ What I’m Working On
+
+- Building small side-projects to explore full stack development  
+- Contributing to open source and improving my coding skills  
+- Exploring data science / machine learning in spare time  
+
+---
+
+Feel free to **fork, suggest improvements, or reach out** — always happy to connect and learn.  
