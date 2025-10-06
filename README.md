@@ -1,6 +1,6 @@
 # Hi there 👋 I’m Pranathi Nagisetti
 
-I’m a software / tech enthusiast passionate about building cool stuff, learning new technologies, and collaborating on open source.  
+I’m a  tech enthusiast passionate about building cool stuff, learning new technologies, and collaborating on open source.  
 
 ---
 
@@ -8,7 +8,7 @@ I’m a software / tech enthusiast passionate about building cool stuff, learnin
 
 | Frontend | Backend | DevOps / Tools | Data / ML |
 |---|---|---|---|
-| HTML · CSS · JavaScript · React | Node.js · Express · Python | Git · Docker · GitHub Actions | Python · Pandas · NumPy |
+| HTML · CSS · JavaScript · React | Node.js · Express · Python | Git · GitHub Actions | Python · Pandas · NumPy |
 
 ---
 
