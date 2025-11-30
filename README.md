@@ -41,7 +41,7 @@
 ## 📫 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/pranathinagisetti" target="_blank">
+<a href="https://www.linkedin.com/in/nagisetti-pranathi-51011b2b8?originalSubdomain=in" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40">
 </a>
 &nbsp;
@@ -55,10 +55,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PranathiNagisetti&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=PranathiNagisetti&show_icons=true&theme=tokyonight" height="180px"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranathiNagisetti&layout=compact&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=PranathiNagisetti&layout=compact&theme=tokyonight" height="180px"/>
 </p>
+
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=PranathiNagisetti&theme=tokyonight" />
+</p>
+
 
 ---
 
