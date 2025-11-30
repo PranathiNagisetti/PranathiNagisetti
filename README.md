@@ -58,12 +58,6 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=PranathiNagisetti&show_icons=true&theme=tokyonight" height="180px"/>
-  &nbsp;
-  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=PranathiNagisetti&layout=compact&theme=tokyonight" height="180px"/>
-</p>
-
 ## 🔥 GitHub Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=PranathiNagisetti&theme=tokyonight" />
