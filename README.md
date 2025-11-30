@@ -1,38 +1,86 @@
-# Hi there 👋 I’m Pranathi Nagisetti
-
-I’m a  tech enthusiast passionate about building cool stuff, learning new technologies, and collaborating on open source.  
-
----
-
-## 🔧 Technologies & Tools
-
-| Frontend | Backend | DevOps / Tools | Data / ML |
-|---|---|---|---|
-| HTML · CSS · JavaScript · React | Node.js · Express · Python | Git · GitHub Actions | Python · Pandas · NumPy |
+<h1 align="center">Hi there 👋, I'm <span style="color:#ff69b4;">Pranathi Nagisetti</span></h1>
+<h3 align="center">A Tech Enthusiast | Full-Stack Learner | Open-Source Contributor</h3>
 
 ---
 
-## 📫 Connect with Me
+## 🚀 About Me
+- 🔭 I’m currently exploring **Full-Stack Development**
+- 🌱 Learning & improving skills in **Python · Data Science · React**
+- 🤝 Open to collaborating on **Open Source Projects**
+- 💡 I love building **small fun projects**, solving problems & learning new technologies
+- 🎯 Goal: Become a strong engineer with real-world project experience
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagisetti-pranathi-51011b2b8)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/PranathiNagisetti)
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 **Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+### 🧩 **Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+</p>
+
+### ⚙️ **DevOps / Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions" />
+</p>
+
+### 📊 **Data Science / ML**
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/pranathinagisetti" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40">
+</a>
+&nbsp;
+<a href="https://github.com/PranathiNagisetti" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="40">
+</a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-[![Pranathi’s GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PranathiNagisetti&theme=dracula)](https://github.com/PranathiNagisetti)  
-
-[![Pranathi’s Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PranathiNagisetti&theme=dracula)](https://github.com/PranathiNagisetti)
-
----
-
-## 🛠️ What I’m Working On
-
-- Building small side-projects to explore full stack development  
-- Contributing to open source and improving my coding skills  
-- Exploring data science / machine learning in spare time  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PranathiNagisetti&show_icons=true&theme=tokyonight" height="180px"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranathiNagisetti&layout=compact&theme=tokyonight" height="180px"/>
+</p>
 
 ---
 
-Feel free to **fork, suggest improvements, or reach out** — always happy to connect and learn.  
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=PranathiNagisetti&theme=tokyonight" />
+</p>
+
+---
+
+## 🧰 What I'm Working On
+- 🏗️ Building full-stack mini projects
+- 🧠 Improving coding skills via contests & DSA practice
+- 🔍 Exploring data science & ML during free time
+- 🤝 Actively engaging in **open source contributions**
+
+---
+
+## 🌟 Fun Fact
+I believe: *“Every line of code you write is a step closer to becoming the developer you want to be.”*
+
+---
+
+⭐ **If you like my work, consider giving a star to my repositories!**  
+💬 Always happy to connect, learn, and collaborate!
