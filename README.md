@@ -48,6 +48,10 @@
 <a href="https://github.com/PranathiNagisetti" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" height="40">
 </a>
+  &nbsp;
+<a href="mailto:pranathisiri05@gmail.com">
+  <img src="https://img.shields.io/badge/Email-pranathisiri05%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </p>
 
 ---
@@ -66,14 +70,6 @@
 </p>
 
 
----
-
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=PranathiNagisetti&theme=tokyonight" />
-</p>
-
----
 
 ## 🧰 What I'm Working On
 - 🏗️ Building full-stack mini projects
